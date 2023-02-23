@@ -1,5 +1,6 @@
 class Principal{
-    public static void main(){
+    public static int main(){
         System.out.println("Hola mundo");
+        return 0;
     }
 }
